@@ -1,4 +1,4 @@
-# movie-catalogue
+# Movie Catalogue
 A simple movie catalogue based on wikipedia entries.
 
 It uses simple and light-weight sqlite as the storage. CLI commands will be used to manage data.
